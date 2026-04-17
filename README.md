@@ -1,2 +1,2 @@
 # wargame
-OTW wargame Practice
+OTW wargame Practice.(just for fun)
